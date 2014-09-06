@@ -3,28 +3,28 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey there!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Welcome to my blog, lost soul (or Internet bot).
 
-There are currently two themes built on Poole:
+This is the musing, tips, tricks, observations and divagations of myself, a self-made geek from Montreal, Quebec.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Written by a french-born and speaking guy, you will probably find here and there blurbs written in french. Seize the opportunity to lean a new langage... or use Google translate if they look interesting to you!
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## French!
+
+Écrit par un francophone, ce blog va en général traiter de sujets qui s'adresses aux geeks-en-général et va donc parler la _lingua franca_ du Net.
+
+Certains posts seront quand même en français, ne serait-ce que pour reprendre des concepts seulement présent dans la langue de Shakespeare sur les intertubes.
 
 ## Setup
 
 Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Built from [Hyde](http://andhyde.com/), itself built from/for [Jekyll](http://jekyllrb.com)
+* Hosted on DigitalOcean
+* Coded with either [Vim](http://www.vim.org) or [Atom](http://Atom.io), both amazing code editors
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/bencaron/patentemoi.ca/issues/new) or [ask me on Twitter](https://twitter.com/bencaron).
 
 Thanks for reading!
