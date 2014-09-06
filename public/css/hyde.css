@@ -176,6 +176,16 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
+/* dark grey*/
+.theme-base-01 .sidebar {
+  background-color: #202020;
+}
+.theme-base-01 .content a,
+.theme-base-01 .related-posts li a:hover {
+  color: #202020;
+}
+
+
 /* Red */
 .theme-base-08 .sidebar {
   background-color: #ac4142;
